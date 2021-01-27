@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-![pouridev github stats](https://github-readme-stats.vercel.app/api?username=pouridev&show_icons=true&count_private=true)
+![MrPointerDev github stats](https://github-readme-stats.vercel.app/api?username=pouridev&show_icons=true&count_private=true)
 
 <!--
-**pouridev/pouridev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MrPointerDev/MrPointerDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
