@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![MrPointerDev github stats](https://github-readme-stats.vercel.app/api?username=pouridev&show_icons=true&count_private=true)
+![MrPointerDev github stats](https://github-readme-stats.vercel.app/api?username=MrPointerDev&show_icons=true&count_private=true)
 
 <!--
 **MrPointerDev/MrPointerDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
